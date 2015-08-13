@@ -4,7 +4,7 @@ of email validation, email verificaiton, pretty much if your web gui needs to
 send a email PHPmailer is extremely strong and was something I taught myself to use 
 during my Summer 2015 internship at <a href="http://forrestgreen.com/" >Forrest Green</a> as a Intern Software Engineer.
 
-During my position as an intern, and in independent projects I found this Mailer to be a size effecient, code-effecient tool that gets the job done time, speed, and cost effeciently.
+During my position as an intern, and in independent projects I found this Mailer to be a size effecient, code-effecient tool that gets the job done.
 
 Most common use of this tool: 
 <ol>
@@ -15,7 +15,7 @@ Most common use of this tool:
     Send invitations for users to come sign up to your application
   </li>
   <li>
-    Send reset passwords, or notifications of account activity to preset and preverified user email addre
+    Send reset passwords, or notifications of account activity to preset and preverified user email address
   </li>
   <li>
     Pretty much <b>ANYTHING</b> email related. 
