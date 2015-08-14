@@ -16,7 +16,9 @@ $mail->Password = '';           // Your gmail pass goes here
 $mail->SMTPSecure = 'tls';                          
 $mail->Port = 465;              // Default usable gmail port                       
 
-/*The rest is self explanatory, plug this script in a MAMP (if you use mac environment), or Abyss/PHPstorm combination on windows and execute it and watch your log (baretails for windows) for the printed message */
+/*The rest is self explanatory LOREM IPSUM, plug this script in a MAMP (if you use mac environment), 
+or Abyss/PHPstorm combination on windows and execute it and watch your log (baretails for windows) 
+for the printed message */
 $mail->From = 'recruitment@tekstar.com'; 
 $mail->FromName = 'Mailer'; 
 $mail->addAddress('shaheenghazazani@gmail.com', 'Shaheen Ghazazani');     
